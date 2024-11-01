@@ -1,0 +1,11 @@
+ul#slkz_breadcrumbs {
+	font-size: .9em;
+	margin: 1.5em 0;
+	padding: 0;
+	line-height: .5em;
+	list-style-type: none;
+}
+
+ul#slkz_breadcrumbs li {
+	display: inline;
+}
